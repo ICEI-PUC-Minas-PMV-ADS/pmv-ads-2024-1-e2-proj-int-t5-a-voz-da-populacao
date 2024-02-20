@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa criar uma plataforma interativa e participativa que permitirá aos cidadãos reportarem e acompanharem demandas relacionadas a problemas urbanos em sua cidade. A plataforma possibilitará que os usuários registrem questões como lâmpadas de iluminação pública queimadas, problemas de infraestrutura em escolas, incidentes de violência em bairros, ou até mesmo buracos em vias públicas. Além de fornecer um canal direto para o relato de problemas, a plataforma também terá funcionalidades para que os usuários acompanhem o progresso das demandas e recebam atualizações sobre as resoluções adotadas pelos órgãos responsáveis pela gestão urbana. Esse sistema visa promover a transparência, o engajamento cívico e a melhoria da qualidade de vida na cidade, ao permitir uma participação mais ativa dos cidadãos na resolução dos problemas locais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Daniela Fernandez da Cruz
+* Israel Messias Gomes Moreira
+* Jose Lucas dos Santos
+* Pedro de Souza Louzada Silva
+* Rodolfo Gaspar de Almeida
+* Welbert Soares Barbosa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 ## Instruções de utilização
 
