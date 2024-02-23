@@ -25,11 +25,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                                                                                             |
-|--------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|morador da cidade   | relatar buracos nas ruas           | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
-|comerciante local   |  comunicar problemas de iluminação pública nas proximidades do meu estabelecimento                                                                                                                                        |
-|                    |                                    |                                                                                                                                    |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                  |PARA ... `MOTIVO/VALOR`                                                                                                             |
+|--------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+|morador da cidade   | relatar buracos nas ruas                                                            | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
+|comerciante local   |  comunicar problemas de iluminação pública nas proximidades do meu estabelecimento  |                                                                                                                                    |
+|                    |                                                                                     |                                                                                                                                    |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
