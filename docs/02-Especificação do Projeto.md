@@ -30,7 +30,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                  |PARA ... `MOTIVO/VALOR`                                                                                                             |
 |--------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|morador da cidade   | relatar buracos nas ruas                                                            | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
+|moradora da cidade  | relatar buracos nas ruas                                                            | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
 |comerciante local   | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento   | para garantir um ambiente seguro para meus clientes e funcionários, e também contribuir para a segurança geral da região.          |
 |pai de família      | reportar a falta de limpeza em parques e áreas de lazer                             | para proporcionar um ambiente mais saudável e seguro para as brincadeiras dos meus filhos.                                         |
 |idosa               | relatar a falta de acessibilidade em locais públicos                                |para garantir que pessoas com mobilidade reduzida tenham condições adequadas de locomoção.                                          |
