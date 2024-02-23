@@ -8,9 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ana é uma moradora ativa da cidade de São Paulo há 10 anos, preocupada com a qualidade de vida em seu bairro. Mãe de dois filhos pequenos, ela busca uma maneira rápida e eficiente de reportar problemas como buracos no asfalto, falta de iluminação pública e acúmulo de lixo nas calçadas à prefeitura. Ana procura se sentir ouvida pelas autoridades locais e deseja contribuir para a melhoria da comunidade.
+Ana já tentou contatar a prefeitura por telefone e e-mail, sem sucesso. Ela se sente desanimada com a falta de resposta e a dificuldade de acompanhar o status de suas solicitações, buscando uma solução mais transparente e eficaz para relatar questões locais
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -26,10 +25,12 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                                                                                             |
+|--------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+|morador da cidade   | relatar buracos nas ruas           | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
+|comerciante local   |  comunicar problemas de iluminação |                                                                                                                                    |
+|                    |  pública nas proximidades do meu   |                                                                                                                                    |
+|                    |  estabelecimento                   |                                                                                                                                    |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
