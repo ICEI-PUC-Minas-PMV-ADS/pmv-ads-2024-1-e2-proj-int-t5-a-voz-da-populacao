@@ -8,8 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Ana é uma moradora ativa da cidade de São Paulo há 10 anos, preocupada com a qualidade de vida em seu bairro. Mãe de dois filhos pequenos, ela busca uma maneira rápida e eficiente de reportar problemas como buracos no asfalto, falta de iluminação pública e acúmulo de lixo nas calçadas à prefeitura. Ana procura se sentir ouvida pelas autoridades locais e deseja contribuir para a melhoria da comunidade.
+Ana é uma moradora ativa, preocupada com a qualidade de vida em seu bairro. Mãe de dois filhos pequenos, ela busca uma maneira rápida e eficiente de reportar problemas como buracos no asfalto, falta de iluminação pública e acúmulo de lixo nas calçadas à prefeitura. Ana procura se sentir ouvida pelas autoridades locais e deseja contribuir para a melhoria da comunidade.
 Ana já tentou contatar a prefeitura por telefone e e-mail, sem sucesso. Ela se sente desanimada com a falta de resposta e a dificuldade de acompanhar o status de suas solicitações, buscando uma solução mais transparente e eficaz para relatar questões locais
+
+João é um empresário bem-sucedido que administra uma pequena rede de restaurantes na cidade. Ele é conhecido por sua paixão pela comunidade local e está sempre em busca de maneiras de contribuir para o desenvolvimento da região. Como proprietário de negócios, João está particularmente preocupado com questões como segurança pública, infraestrutura urbana e limpeza das ruas. O empresário enfrenta constantemente desafios relacionados à segurança e manutenção da área em torno de seus restaurantes, como problemas de iluminação, buracos nas ruas e coleta irregular de lixo.
+João já teve experiências frustrantes ao tentar relatar problemas à prefeitura, encontrando dificuldades para obter respostas e soluções eficazes para as questões enfrentadas em sua área de negócios.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
