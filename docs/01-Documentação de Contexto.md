@@ -25,7 +25,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-O uso de um sistema conectado com todos os setores público trará liberdade para o cidadão(a) se manifestar sobre um possível problema em sua cidade. Além de direcionarmos as reclamações para as pessoas responsáveis pelas tratativas junto ao governo brasileiro de cada cidade.
+O uso de um sistema conectado com todos os setores público trará liberdade para o cidadão(a) se manifestar sobre problemas em sua cidade e agregar com sugestões  para melhoria da educação, saneamento básico, transporte público, segurança, entre outros. A construção desse software contribuirá com a consolidação das manifestações em um único lugar e o direcionamento correto para as pessoas responsáveis pela tratativa no governo.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
