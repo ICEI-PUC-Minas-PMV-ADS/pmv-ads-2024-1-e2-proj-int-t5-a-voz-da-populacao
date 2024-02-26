@@ -83,6 +83,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| A aplicação deve ser capaz de suportar vários usuários simultâneos | MÉDIA |
 |RNF-007| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA |
 |RNF-008| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
+|RNF-009| A aplicação deve ser capaz de armazenar e processar grandes volumes de dados | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
