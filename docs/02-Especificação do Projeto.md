@@ -60,15 +60,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA | 
-|RF-002| A aplicação deve emitir um relatório de tarefas realizadas no mês   | MÉDIA |
+|RF-001| A aplicação deve permitir que o usuário relate problemas de infraestrutura urbana (buracos, iluminação, etc.) | ALTA |
+|RF-002| A aplicação deve permitir que o usuário acompanhe o status de suas solicitações | MÉDIA |
+|RF-003| A aplicação deve permitir que os usuários acompanhem o status de seus relatórios e recebam atualizações sobre as ações tomadas pela prefeitura | MÉDIA |
+|RF-004| A aplicação deve permitir que o usuário relate problemas de limpeza urbana (lixo, poluição, etc.) | ALTA |
+|RF-005| A aplicação deve permitir que o usuário relate problemas de acessibilidade em locais públicos | ALTA |
+|RF-006| A aplicação deve permitir que o usuário relate problemas de segurança pública | ALTA |
+|RF-007| A aplicação deve permitir que o usuário relate problemas ambientais (desmatamento, falta de áreas verdes, etc.) | ALTA |
+|RF-008| A aplicação deve permitir que o usuário relate problemas em escolas municipais | ALTA |
+|RF-009| A aplicação deve permitir que o usuário relate focos de dengue em áreas públicas | ALTA |
+|RF-010|  A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser de fácil utilização e ter uma interface intuitiva para que usuários de diferentes perfis possam relatar problemas de forma rápida e eficiente | ALTA |
+|RNF-002| A aplicação deve ser responsiva e funcionar corretamente em diferentes dispositivos, como smartphones, tablets e computadores | ALTA |
+|RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os relatórios enviados | ALTA |
+|RNF-004| A aplicação deve ser responsiva | MÉDIA |
+|RNF-005| A aplicação deve ser compatível com os principais navegadores web (Chrome, Firefox, Safari, Edge) | MÉDIA |
+|RNF-006| A aplicação deve ser capaz de suportar vários usuários simultâneos | MÉDIA |
+|RNF-007| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA |
+|RNF-008| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
