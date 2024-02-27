@@ -110,7 +110,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Aplicação deverá ser desenvolvida em um módulo de backend        |
+|03| O projeto deverá ser desenvolvido em C#               |
+|04| O projeto deverá ser desenvolvido na IDE Visual Studio             |
+|04| O projeto deverá utilizar o Entity Framework como ORM |
+|05| O projeto deverá utilizar um banco de dados |
+|06| O projeto deverá conter testes unitários |
+|07| O projeto deverá conter dois CRUDs |
+|08| O projeto deverá conter um sistema de autenticação |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
