@@ -32,10 +32,23 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Cidadãos Engajados: Este grupo é composto por cidadãos ativos e engajados que desejam contribuir para melhorar sua cidade. Eles são motivados a expressar suas preocupações e oferecer sugestões para o aprimoramento de serviços públicos, infraestrutura urbana e qualidade ambiental.
+
+Estudantes e Educadores: Estudantes de todas as idades, bem como professores e administradores escolares, que desejam reportar questões relacionadas às instituições de ensino, como problemas de infraestrutura, segurança, qualidade da educação e necessidades específicas da comunidade escolar.
+
+Universitários e Professores Universitários: Este segmento inclui estudantes universitários e acadêmicos interessados em questões que afetam a vida universitária, como transporte, segurança, condições de aprendizado, acesso a recursos e desenvolvimento de campus.
+
+Pequenos Empresários e Comerciantes Locais: Proprietários de pequenas empresas, comerciantes e empreendedores locais que desejam relatar questões comerciais, regulatórias ou de infraestrutura que afetam suas operações e o ambiente de negócios local.
+
+Moradores de Bairros e Comunidades Específicas: Residentes de bairros e comunidades específicas que desejam abordar preocupações relacionadas a questões locais, como segurança, iluminação pública, coleta de lixo, manutenção de parques e áreas verdes, entre outras.
+
+Organizações da Sociedade Civil e Ativistas Comunitários: Grupos e indivíduos envolvidos em organizações da sociedade civil, ativismo comunitário e defesa de direitos que buscam uma plataforma para mobilizar e organizar esforços de advocacy e para promover mudanças sociais positivas em suas comunidades.
+
+Profissionais de Serviços Públicos e Funcionários Governamentais: Funcionários públicos municipais, como agentes de serviço social, inspetores de saúde, pessoal de obras públicas e outras agências municipais, que desejam receber feedback direto dos cidadãos e resolver problemas de maneira eficaz.
+
+Esses segmentos representam indivíduos e grupos com interesse em melhorar sua comunidade, promover a transparência e responsabilidade governamental e contribuir para a construção de uma sociedade mais justa e inclusiva.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
