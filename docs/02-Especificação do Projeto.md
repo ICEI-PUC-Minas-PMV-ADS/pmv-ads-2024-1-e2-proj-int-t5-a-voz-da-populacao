@@ -68,7 +68,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| A aplicação deve permitir que o usuário relate problemas ambientais (desmatamento, falta de áreas verdes, etc.) | ALTA |
 |RF-007| A aplicação deve permitir que o usuário relate problemas em escolas municipais | ALTA |
 |RF-008| A aplicação deve permitir que o usuário relate focos de dengue em áreas públicas | ALTA |
-|RF-009|  A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
+|RF-009| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
 |RF-010| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
 |RF-011| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
 |RF-012| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
