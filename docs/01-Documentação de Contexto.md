@@ -12,9 +12,11 @@ Atualmente, o desafio reside na ausência de um canal que forneça transparênci
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos da aplicação são os seguintes:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Facilitar a Comunicação: Oferecer um canal simples e acessível para que os cidadãos se comuniquem diretamente com a prefeitura.
+Agilizar o Atendimento: Possibilitar que os cidadãos abram chamados e recebam respostas ágeis por parte da prefeitura.
+Promover a Transparência: Tornar as ações da prefeitura em resposta aos chamados visíveis, assegurando transparência e responsabilidade.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
