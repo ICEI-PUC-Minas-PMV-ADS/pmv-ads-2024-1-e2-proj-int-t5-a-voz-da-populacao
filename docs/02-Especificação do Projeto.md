@@ -18,6 +18,9 @@ Carla é uma moradora ativa da comunidade, Ela utiliza regularmente a academia a
 
 Prefeito Antônio, há dois anos no cargo, é reconhecido por sua integridade e compromisso com a transparência na gestão pública. Ele valoriza a participação dos cidadãos e vê na aplicação de abertura de chamados uma oportunidade para fortalecer o diálogo direto com a comunidade. Seu objetivo é construir confiança com os eleitores, demonstrando responsabilidade e eficiência na resolução dos problemas locais.
 
+
+Lucas, secretário de Obras e Infraestrutura, lidera os esforços para desenvolver e manter a infraestrutura urbana da cidade. Busca eficiência e transparência, esperando que a aplicação forneça métricas para avaliar o progresso dos Chamados abertos pelo cidadão. Seu objetivo é utilizar essas métricas para demonstrar a eficácia e a transparência do trabalho da secretaria.
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
