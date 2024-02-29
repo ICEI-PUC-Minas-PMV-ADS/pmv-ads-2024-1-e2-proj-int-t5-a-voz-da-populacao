@@ -16,7 +16,7 @@ João já teve experiências frustrantes ao tentar relatar problemas à prefeitu
 
 Carla é uma moradora ativa da comunidade, Ela utiliza regularmente a academia ao ar livre próxima à sua casa para fazer exercícios físicos. Recentemente, Carla percebeu que um dos equipamentos da academia ao ar livre estava danificado, tornando-o inutilizável e até mesmo perigoso para os usuários. Preocupada com a segurança e a qualidade dos equipamentos, Carla decidiu fazer uma visita pessoal à sede da prefeitura para relatar o problema e solicitar a sua reparação. Ela deixou seu nome e informações de contato na recepção, mas não obteve retorno algum.
 
-Carlos é um aposentado que vive há muitos anos na cidade. Ele é um cidadão ativo e participa de grupos comunitários locais. Carlos se preocupa com a qualidade de vida dos moradores mais idosos da cidade e está sempre em busca de maneiras de melhorar a acessibilidade e os serviços para essa população. Como um idoso, ele enfrenta desafios diários, como falta de rampas de acessibilidade, calçadas irregulares e falta de transporte público adequado para pessoas idosas. Carlos quer uma maneira fácil de relatar esses problemas à prefeitura e garantir que a cidade seja mais inclusiva e acessível para todos os seus moradores.
+Prefeito Antônio, há dois anos no cargo, é reconhecido por sua integridade e compromisso com a transparência na gestão pública. Ele valoriza a participação dos cidadãos e vê na aplicação de abertura de chamados uma oportunidade para fortalecer o diálogo direto com a comunidade. Seu objetivo é construir confiança com os eleitores, demonstrando responsabilidade e eficiência na resolução dos problemas locais.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
