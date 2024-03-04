@@ -33,6 +33,8 @@ No entanto, apesar dos esforços para promover transparência, ainda é desafiad
 
 De acordo com o último relatório em formato PDF, a maioria das reclamações foram registradas online, totalizando 74.751 (94,10%) das manifestações, com um total geral de 79.442. Destas, 46.858 (58,98%) foram reclamações e 20.508 (25,82%) foram solicitações de providências. Contrariamente ao que foi mencionado na FAQ do site, o prazo máximo para resposta não está restrito ao intervalo de 1 a 30 dias, conforme indicado no próprio relatório. Nele, consta que 97,52% do total de reclamações foram atendidas dentro de 30 dias, totalizando 75.210, enquanto algumas ultrapassaram esse prazo, com 1.778 (2,40%) delas respondidas após 60 dias e 138 (0,18%) fora do prazo legal.
 
+O site ReclameAqui também desempenha um papel importante na expressão das preocupações dos cidadãos. No entanto, uma reclamação específica se destaca, representando 36,58% do total, relacionada a "Problemas com o site". Os usuários mencionam dificuldades diversas, como erros de credencial e problemas de acesso, ressaltando a importância de uma plataforma eficiente e funcional para atender às necessidades do público.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
