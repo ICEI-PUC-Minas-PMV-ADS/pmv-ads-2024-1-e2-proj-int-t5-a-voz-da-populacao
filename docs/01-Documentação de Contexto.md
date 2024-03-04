@@ -31,6 +31,8 @@ Em 2019, a Controladoria-Geral da União (CGU) lançou o software "Fala.br" com 
 
 No entanto, apesar dos esforços para promover transparência, ainda é desafiador encontrar relatórios que atendam aos padrões exigidos pela Lei n. 13.460, de 26 de junho de 2017, que orienta a elaboração de relatórios de gestão anuais. O último relatório disponível, o Relatório Anual de Gestão - 2022, oferece apenas dados gerais sobre as reclamações, sem fornecer uma análise detalhada das falhas e sugestões de melhorias.
 
+De acordo com o último relatório em formato PDF, a maioria das reclamações foram registradas online, totalizando 74.751 (94,10%) das manifestações, com um total geral de 79.442. Destas, 46.858 (58,98%) foram reclamações e 20.508 (25,82%) foram solicitações de providências. Contrariamente ao que foi mencionado na FAQ do site, o prazo máximo para resposta não está restrito ao intervalo de 1 a 30 dias, conforme indicado no próprio relatório. Nele, consta que 97,52% do total de reclamações foram atendidas dentro de 30 dias, totalizando 75.210, enquanto algumas ultrapassaram esse prazo, com 1.778 (2,40%) delas respondidas após 60 dias e 138 (0,18%) fora do prazo legal.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
