@@ -25,6 +25,8 @@ Promover a Transparência: Tornar as ações da prefeitura em resposta aos chama
 
 O uso de um sistema conectado com todos os setores públicos visa proporcionar aos cidadãos a oportunidade de expressar suas preocupações e oferecer sugestões para melhorar diversos aspectos da vida na cidade, como educação, saneamento básico, transporte público e segurança. O desenvolvimento do software FalaCidadão.com facilitará a centralização dessas informações, permitindo a criação de relatórios transparentes que abrangem todas as manifestações registradas. Além disso, possibilitará o encaminhamento eficaz dos problemas às autoridades responsáveis pela resolução, em colaboração com o governo.
 
+Essa iniciativa não se confunde com os procedimentos administrativos tradicionais oferecidos pelos Órgãos de Defesa do Consumidor, como Procons Estaduais e Municipais, Defensorias Públicas, Ministério Público e Juizados Especiais Cíveis. Os consumidores podem recorrer a esse serviço sem prejudicar o acesso a esses canais estabelecidos.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
