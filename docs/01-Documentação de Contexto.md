@@ -29,6 +29,8 @@ Essa iniciativa não se confunde com os procedimentos administrativos tradiciona
 
 Em 2019, a Controladoria-Geral da União (CGU) lançou o software "Fala.br" com o mesmo propósito mencionado anteriormente. A plataforma permite que os cidadãos se manifestem sobre acesso à informação, denúncias, elogios, reclamações, solicitações e até mesmo sugestões diretamente para as instâncias responsáveis, sejam elas federais, estaduais, municipais, do Judiciário Federal ou de Serviços Autônomos/Conselhos Profissionais. O prazo máximo para resposta da Ouvidoria varia entre 1 e 30 dias corridos, sendo este o tempo estimado para a prestação desse serviço.
 
+No entanto, apesar dos esforços para promover transparência, ainda é desafiador encontrar relatórios que atendam aos padrões exigidos pela Lei n. 13.460, de 26 de junho de 2017, que orienta a elaboração de relatórios de gestão anuais. O último relatório disponível, o Relatório Anual de Gestão - 2022, oferece apenas dados gerais sobre as reclamações, sem fornecer uma análise detalhada das falhas e sugestões de melhorias.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
