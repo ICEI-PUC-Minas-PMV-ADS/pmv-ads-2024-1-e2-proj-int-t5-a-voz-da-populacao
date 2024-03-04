@@ -27,6 +27,8 @@ O uso de um sistema conectado com todos os setores públicos visa proporcionar a
 
 Essa iniciativa não se confunde com os procedimentos administrativos tradicionais oferecidos pelos Órgãos de Defesa do Consumidor, como Procons Estaduais e Municipais, Defensorias Públicas, Ministério Público e Juizados Especiais Cíveis. Os consumidores podem recorrer a esse serviço sem prejudicar o acesso a esses canais estabelecidos.
 
+Em 2019, a Controladoria-Geral da União (CGU) lançou o software "Fala.br" com o mesmo propósito mencionado anteriormente. A plataforma permite que os cidadãos se manifestem sobre acesso à informação, denúncias, elogios, reclamações, solicitações e até mesmo sugestões diretamente para as instâncias responsáveis, sejam elas federais, estaduais, municipais, do Judiciário Federal ou de Serviços Autônomos/Conselhos Profissionais. O prazo máximo para resposta da Ouvidoria varia entre 1 e 30 dias corridos, sendo este o tempo estimado para a prestação desse serviço.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
