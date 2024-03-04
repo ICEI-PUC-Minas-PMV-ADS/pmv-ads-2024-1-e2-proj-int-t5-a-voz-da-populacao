@@ -35,6 +35,20 @@ De acordo com o último relatório em formato PDF, a maioria das reclamações f
 
 O site ReclameAqui também desempenha um papel importante na expressão das preocupações dos cidadãos. No entanto, uma reclamação específica se destaca, representando 36,58% do total, relacionada a "Problemas com o site". Os usuários mencionam dificuldades diversas, como erros de credencial e problemas de acesso, ressaltando a importância de uma plataforma eficiente e funcional para atender às necessidades do público.
 
+Diante desse cenário, a proposta do FalaCidadão.com de ampliar a acessibilidade dos cidadãos e buscar soluções para suas questões, enquanto fornece uma base de dados qualificada para o monitoramento e acompanhamento transparente, reforça a importância de iniciativas voltadas para o bem-estar e participação ativa da comunidade.
+
+O relatório deverá conter: 
+
+I - o número de manifestações recebidas de todos os anos anteriores;
+II - os motivos das manifestações;
+III - a análise dos pontos recorrentes;
+IV - as providências adotadas pela administração pública nas soluções apresentadas.
+
+O relatório será:
+
+I - encaminhado à autoridade máxima do órgão a que pertence a unidade de ouvidoria; e
+II - disponibilizado integralmente na internet.
+
 ## Público-Alvo
 
 A plataforma de manifestações e reclamações municipais é direcionada a indivíduos preocupados com o desenvolvimento e a qualidade de vida em suas comunidades. O público-alvo inclui:
