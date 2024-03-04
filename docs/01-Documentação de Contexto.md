@@ -23,12 +23,7 @@ Promover a Transparência: Tornar as ações da prefeitura em resposta aos chama
 
 ## Justificativa
 
-O uso de um sistema conectado com todos os setores público trará liberdade para o cidadão(a) se manifestar sobre problemas em sua cidade e agregar com sugestões  para melhoria da educação, saneamento básico, transporte público, segurança, entre outros. A construção desse software contribuirá com a consolidação das manifestações em um único lugar e o direcionamento correto para as pessoas responsáveis pela tratativa no governo.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O uso de um sistema conectado com todos os setores públicos visa proporcionar aos cidadãos a oportunidade de expressar suas preocupações e oferecer sugestões para melhorar diversos aspectos da vida na cidade, como educação, saneamento básico, transporte público e segurança. O desenvolvimento do software FalaCidadão.com facilitará a centralização dessas informações, permitindo a criação de relatórios transparentes que abrangem todas as manifestações registradas. Além disso, possibilitará o encaminhamento eficaz dos problemas às autoridades responsáveis pela resolução, em colaboração com o governo.
 
 ## Público-Alvo
 
