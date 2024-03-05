@@ -35,7 +35,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                       |PARA ... `MOTIVO/VALOR`                                                                                                             |
+|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                    |PARA ... `MOTIVO/VALOR`                                                                                                             |
 |-----------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 |moradora da cidade     | relatar buracos nas ruas                                                              | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
 |comerciante local      | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento     | para garantir um ambiente seguro para meus clientes e funcionários, e também contribuir para a segurança geral da região.          |
@@ -44,7 +44,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |comerciante local      | relatar problemas de coleta irregular de lixo nas proximidades do meu estabelecimento |para manter a área comercial limpa e atrativa para clientes, contribuindo para o desenvolvimento econômico da região.               |
 |estudante universitária| relatar casos de poluição em rios e lagos                                             |para preservar o meio ambiente local e garantir um futuro sustentável para a comunidade.                                            |
 |morador da cidade      | comunicar a presença de focos de dengue em áreas públicas                             |para proteger a saúde da comunidade e prevenir surtos de doenças transmitidas por vetores.                                          |
-|mãe de criança         |  relatar problemas encontrados na escola municipal frequentada por meu filho          |para garantir um ambiente seguro e propício ao aprendizado para meu filho e outros alunos, além de contribuir para a melhoria contínua da educação na comunidade.             |
+|mãe de criança         |  relatar problemas encontrados na escola municipal frequentada por meu filho          |para garantir um ambiente seguro e propício ao aprendizado para meu filho e outros alunos, além de contribuir para a melhoria contínua da educação na 
+ comunidade.            
+|Prefeito               | Desejo me comunicar de forma transparente e eficiente com meu eleitor                 | Mostrar com clareza as atividades realizadas pela prefeitura em atender as solicitações e esclarecer eventuais duvidas do cidadão  |
+|Secret. da prefeitura  | Quero resolver e retonar os chamados referente a minha pasta                          | Mostrar o comprimisso em atender as demandas da população e ter métricas para demonstrar a eficácia e a transparência do trabalho da secretaria. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
