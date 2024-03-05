@@ -23,7 +23,7 @@ Promover a Transparência: Tornar as ações da prefeitura em resposta aos chama
 
 ## Justificativa
 
-O uso de um sistema conectado com todos os setores públicos visa proporcionar aos cidadãos a oportunidade de expressar suas preocupações e oferecer sugestões para melhorar diversos aspectos da vida na cidade, como educação, saneamento básico, transporte público e segurança. O desenvolvimento do software FalaCidadão.com facilitará a centralização dessas informações, permitindo a criação de relatórios transparentes que abrangem todas as manifestações registradas. Além disso, possibilitará o encaminhamento eficaz dos problemas às autoridades responsáveis pela resolução, em colaboração com o governo.
+Um sistema conectado com as Ouvidorias públicas visa proporcionar aos cidadãos a oportunidade de expressar suas preocupações e oferecer sugestões para melhorar aspectos da vida na cidade, como: educação, saneamento básico, transporte público e segurança. O software FalaCidadão.com facilitará a centralização dessas informações, permitindo a criação de relatórios transparentes que abrangem todas as manifestações registradas. Além disso, possibilitará o encaminhamento eficaz dos problemas às autoridades responsáveis pela resolução, em colaboração com o governo.
 
 Essa iniciativa não se confunde com os procedimentos administrativos tradicionais oferecidos pelos Órgãos de Defesa do Consumidor, como Procons Estaduais e Municipais, Defensorias Públicas, Ministério Público e Juizados Especiais Cíveis. Os consumidores podem recorrer a esse serviço sem prejudicar o acesso a esses canais estabelecidos.
 
