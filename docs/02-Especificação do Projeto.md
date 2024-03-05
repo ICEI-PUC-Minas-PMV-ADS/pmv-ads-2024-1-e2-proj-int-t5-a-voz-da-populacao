@@ -63,7 +63,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| A aplicação deve garantir que ao abrir um ticket o usuário adicione flags para indicar o tipo do ticket | MÉDIA |
 |RF-003| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
 |RF-004| A aplicação deve permitir que os usuários acompanhem o status de seus tickets e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
-|RF-005| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
+|RF-005| Os cadastros de usuários pessoa fisica deverão ser obrigatoriamente atrelados a um CPF | ALTA |
 |RF-006| Os cadastros de agentes deverão ser obrigatoriamente atrelados a um CNPJ | ALTA |
 |RF-007| A aplicação deve permitir que o agente filtre a visualização dos tickets por tipo | ALTA |
 
