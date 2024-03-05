@@ -59,19 +59,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário relate problemas de infraestrutura urbana (buracos, iluminação, etc.) | ALTA |
-|RF-002| A aplicação deve permitir que os usuários acompanhem o status de seus relatórios e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
-|RF-003| A aplicação deve permitir que o usuário relate problemas de limpeza urbana (lixo, poluição, etc.) | ALTA |
-|RF-004| A aplicação deve permitir que o usuário relate problemas de acessibilidade em locais públicos | ALTA |
-|RF-005| A aplicação deve permitir que o usuário relate problemas de segurança pública | ALTA |
-|RF-006| A aplicação deve permitir que o usuário relate problemas ambientais (desmatamento, falta de áreas verdes, etc.) | ALTA |
-|RF-007| A aplicação deve permitir que o usuário relate problemas em escolas municipais | ALTA |
-|RF-008| A aplicação deve permitir que o usuário relate focos de dengue em áreas públicas | ALTA |
-|RF-009| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
-|RF-010| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
-|RF-011| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
-|RF-012| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
-|RF-013| Os cadastros de usuários responsáveis por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
+|RF-001| A aplicação deve permitir que o usuário abra tickets para relatar problemas | ALTA |
+|RF-002| A aplicação deve garantir que ao abrir um ticket o usuário adicione flags para indicar o tipo do ticket | MÉDIA |
+|RF-003| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
+|RF-004| A aplicação deve permitir que os usuários acompanhem o status de seus tickets e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
+|RF-005| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
+|RF-006| Os cadastros de agentes deverão ser obrigatoriamente atrelados a um CNPJ | ALTA |
+|RF-007| A aplicação deve permitir que o agente filtre a visualização dos tickets por tipo | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -79,13 +73,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser de fácil utilização e ter uma interface intuitiva para que usuários de diferentes perfis possam relatar problemas de forma rápida e eficiente | ALTA |
 |RNF-002| A aplicação deve ser responsiva e funcionar corretamente em diferentes dispositivos, como smartphones, tablets e computadores | ALTA |
-|RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os relatórios enviados | ALTA |
+|RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os tickets enviados | ALTA |
 |RNF-004| A aplicação deve ser compatível com os principais navegadores web (Chrome, Firefox, Safari, Edge) | MÉDIA |
 |RNF-005| A aplicação deve ser capaz de suportar vários usuários simultâneos | MÉDIA |
 |RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA |
 |RNF-007| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
 |RNF-008| A aplicação deve ser capaz de armazenar e processar grandes volumes de dados | BAIXA |
-|RNF-009| As contas devem ser limitadas a um cadastro por CPF | ALTA |
+|RNF-009| As contas de usuário devem ser limitadas a um cadastro por CPF | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
