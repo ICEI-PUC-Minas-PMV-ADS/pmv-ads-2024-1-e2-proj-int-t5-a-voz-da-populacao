@@ -34,13 +34,13 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                    |PARA ... `MOTIVO/VALOR`                                                                                                             |
-|-----------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|ANA                    | relatar buracos nas ruas                                                              | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
-|João                   | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento     | para garantir um ambiente seguro para meus clientes e funcionários, e também contribuir para a segurança geral da região.          |
-|morador da cidade      | comunicar a presença de focos de dengue em áreas públicas                             | para proteger a saúde da comunidade e prevenir surtos de doenças transmitidas por vetores.                                         |          
-|Prefeito               | Desejo me comunicar de forma transparente e eficiente com meu eleitor                 | Mostrar com clareza as atividades realizadas pela prefeitura em atender as solicitações e esclarecer eventuais duvidas do cidadão  |
-|Secret. da prefeitura  | Quero resolver e retonar os chamados referente a minha pasta                          | Mostrar o comprimisso em atender as demandas da população e ter métricas para demonstrar a eficácia e a transparência do trabalho da secretaria. |
+|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                    |PARA ... `MOTIVO/VALOR`                                                                                                                           |
+|-----------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|ANA                    | relatar buracos nas ruas                                                              | para garantir a manutenção adequada da infraestrutura urbana e facilitar a minha comunicação com a prefeitura                                    |
+|João                   | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento     | para garantir um ambiente seguro para meus clientes e funcionários, e também contribuir para a segurança geral da região.                        |
+|Pedro                  | comunicar a presença de focos de dengue em áreas públicas                             | para proteger a saúde da comunidade e prevenir surtos de doenças transmitidas por vetores.                                                       |          
+|Antônio                | Desejo me comunicar de forma transparente e eficiente o cidadão                       | Mostrar com clareza as atividades realizadas pela prefeitura em atender as solicitações e esclarecer eventuais duvidas do cidadão                |
+|Lucas                  | Quero resolver e retonar os chamados referente a minha pasta                          | Mostrar o comprimisso em atender as demandas da população e ter métricas para demonstrar a eficácia e a transparência do trabalho da secretaria. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
