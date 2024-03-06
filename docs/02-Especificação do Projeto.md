@@ -14,9 +14,11 @@ Ana já tentou contatar a prefeitura por telefone e e-mail, sem sucesso. Ela se 
 João é um empresário bem-sucedido que administra uma pequena rede de restaurantes na cidade. Ele é conhecido por sua paixão pela comunidade local e está sempre em busca de maneiras de contribuir para o desenvolvimento da região. Como proprietário de negócios, João está particularmente preocupado com questões como segurança pública, infraestrutura urbana e limpeza das ruas. O empresário enfrenta constantemente desafios relacionados à segurança e manutenção da área em torno de seus restaurantes, como problemas de iluminação, buracos nas ruas e coleta irregular de lixo.
 João já teve experiências frustrantes ao tentar relatar problemas à prefeitura, encontrando dificuldades para obter respostas e soluções eficazes para as questões enfrentadas em sua área de negócios.
 
-Maria é uma estudante universitária que mora sozinha na cidade. Ela é ativa nas redes sociais e tem interesse em questões sociais e ambientais. Maria está preocupada com a preservação do meio ambiente e a sustentabilidade da sua cidade. Como uma jovem preocupada com o futuro, ela deseja uma maneira fácil e eficaz de relatar problemas como poluição em rios e lagos, desmatamento urbano e falta de áreas verdes. Maria acredita que é importante que a prefeitura esteja ciente desses problemas para tomar medidas adequadas e garantir um futuro sustentável para a comunidade.
+Pedro é uma morador ativo da comunidade, Ela utiliza regularmente a academia ao ar livre próxima à sua casa para fazer exercícios físicos. Recentemente, Pedro percebeu existia aguá parada devido a lixo no local, podendo acarretar na presença de focos de dengue em áreas públicas. Preucupado coma situação , Pedro decidiu fazer uma visita pessoal à sede da prefeitura para relatar o problema . Ele deixou seu nome e informações de contato na recepção, mas não obteve retorno algum.
 
-Carlos é um aposentado que vive há muitos anos na cidade. Ele é um cidadão ativo e participa de grupos comunitários locais. Carlos se preocupa com a qualidade de vida dos moradores mais idosos da cidade e está sempre em busca de maneiras de melhorar a acessibilidade e os serviços para essa população. Como um idoso, ele enfrenta desafios diários, como falta de rampas de acessibilidade, calçadas irregulares e falta de transporte público adequado para pessoas idosas. Carlos quer uma maneira fácil de relatar esses problemas à prefeitura e garantir que a cidade seja mais inclusiva e acessível para todos os seus moradores.
+Prefeito Antônio, há dois anos no cargo, é reconhecido por sua integridade e compromisso com a transparência na gestão pública. Ele valoriza a participação dos cidadãos e vê na aplicação de abertura de chamados uma oportunidade para fortalecer o diálogo direto com a comunidade. Seu objetivo é construir confiança com os eleitores, demonstrando responsabilidade e eficiência na resolução dos problemas locais.
+
+Lucas, secretário de Obras e Infraestrutura, lidera os esforços para desenvolver e manter a infraestrutura urbana da cidade. Busca eficiência e transparência, esperando que a aplicação forneça métricas para avaliar o progresso dos Chamados abertos pelo cidadão. Seu objetivo é utilizar essas métricas para demonstrar a eficácia e a transparência do trabalho da secretaria.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -32,16 +34,13 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                                  |PARA ... `MOTIVO/VALOR`                                                                                                             |
-|--------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-|moradora da cidade  | relatar buracos nas ruas                                                            | para garantir a segurança dos pedestres e motoristas e contribuir para a manutenção adequada da infraestrutura urbana              |
-|comerciante local   | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento   | para garantir um ambiente seguro para meus clientes e funcionários, e também contribuir para a segurança geral da região.          |
-|pai de família      | reportar a falta de limpeza em parques e áreas de lazer                             | para proporcionar um ambiente mais saudável e seguro para as brincadeiras dos meus filhos.                                         |
-|idosa               | relatar a falta de acessibilidade em locais públicos                                |para garantir que pessoas com mobilidade reduzida tenham condições adequadas de locomoção.                                          |
-|comerciante local               | relatar problemas de coleta irregular de lixo nas proximidades do meu estabelecimento                                |para manter a área comercial limpa e atrativa para clientes, contribuindo para o desenvolvimento econômico da região.                                          |
-|estudante universitária              | relatar casos de poluição em rios e lagos                                |para preservar o meio ambiente local e garantir um futuro sustentável para a comunidade.                                       |
-|morador da cidade              | comunicar a presença de focos de dengue em áreas públicas                                |para proteger a saúde da comunidade e prevenir surtos de doenças transmitidas por vetores.                                       |
-|mãe de criança              |  relatar problemas encontrados na escola municipal frequentada por meu filho                               |para garantir um ambiente seguro e propício ao aprendizado para meu filho e outros alunos, além de contribuir para a melhoria contínua da educação na comunidade.                                       |
+|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                    |PARA ... `MOTIVO/VALOR`                                                                                                                           |
+|-----------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|ANA                    | relatar buracos nas ruas                                                              | para garantir a manutenção adequada da infraestrutura urbana e facilitar a minha comunicação com a prefeitura                                    |
+|João                   | comunicar problemas de iluminação pública nas proximidades do meu estabelecimento     | para contribuir para a segurança geral da região. e conseguir me comunicar com a prefeitura direto pelo meu computador no conforto da minha casa |
+|Pedro                  | comunicar a presença de focos de dengue em áreas públicas                             | para proteger a saúde da comunidade e prevenir surtos de doenças transmitidas por vetores.                                                       |          
+|Antônio                | Desejo me comunicar de forma transparente e eficiente o cidadão                       | Mostrar com clareza as atividades realizadas pela prefeitura em atender as solicitações e esclarecer eventuais duvidas do cidadão                |
+|Lucas                  | Quero resolver e retonar os chamados referente a minha pasta                          | Mostrar o comprimisso em atender as demandas da população e ter métricas para demonstrar a eficácia e a transparência do trabalho da secretaria. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -60,19 +59,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário relate problemas de infraestrutura urbana (buracos, iluminação, etc.) | ALTA |
-|RF-002| A aplicação deve permitir que os usuários acompanhem o status de seus relatórios e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
-|RF-003| A aplicação deve permitir que o usuário relate problemas de limpeza urbana (lixo, poluição, etc.) | ALTA |
-|RF-004| A aplicação deve permitir que o usuário relate problemas de acessibilidade em locais públicos | ALTA |
-|RF-005| A aplicação deve permitir que o usuário relate problemas de segurança pública | ALTA |
-|RF-006| A aplicação deve permitir que o usuário relate problemas ambientais (desmatamento, falta de áreas verdes, etc.) | ALTA |
-|RF-007| A aplicação deve permitir que o usuário relate problemas em escolas municipais | ALTA |
-|RF-008| A aplicação deve permitir que o usuário relate focos de dengue em áreas públicas | ALTA |
-|RF-009| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
-|RF-010| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
-|RF-011| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
-|RF-012| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
-|RF-013| Os cadastros de usuários responsáveis por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
+|RF-001| A aplicação deve permitir que o usuário abra tickets para relatar problemas | ALTA |
+|RF-002| A aplicação deve garantir que ao abrir um ticket o usuário adicione flags para indicar o tipo do ticket | MÉDIA |
+|RF-003| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
+|RF-004| A aplicação deve permitir que os usuários acompanhem o status de seus tickets e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
+|RF-005| Os cadastros de usuários pessoa fisica deverão ser obrigatoriamente atrelados a um CPF | ALTA |
+|RF-006| Os cadastros de agentes deverão ser obrigatoriamente atrelados a um CNPJ | ALTA |
+|RF-007| A aplicação deve permitir que o agente filtre a visualização dos tickets por tipo | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -80,16 +73,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser de fácil utilização e ter uma interface intuitiva para que usuários de diferentes perfis possam relatar problemas de forma rápida e eficiente | ALTA |
 |RNF-002| A aplicação deve ser responsiva e funcionar corretamente em diferentes dispositivos, como smartphones, tablets e computadores | ALTA |
-|RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os relatórios enviados | ALTA |
+|RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os tickets enviados | ALTA |
 |RNF-004| A aplicação deve ser compatível com os principais navegadores web (Chrome, Firefox, Safari, Edge) | MÉDIA |
 |RNF-005| A aplicação deve ser capaz de suportar vários usuários simultâneos | MÉDIA |
 |RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA |
 |RNF-007| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
 |RNF-008| A aplicação deve ser capaz de armazenar e processar grandes volumes de dados | BAIXA |
+<<<<<<< HEAD
 |RNF-009| As contas devem ser limitadas a um cadastro por CPF | ALTA |
 |RNF-010| O projeto deverá ser desenvolvido em C#
 |RNF-011| O projeto deverá ser desenvolvido na IDE Visual Studio             |
 |RNF-012| O projeto deverá utilizar o Entity Framework como ORM |
+=======
+|RNF-009| As contas de usuário devem ser limitadas a um cadastro por CPF | ALTA |
+>>>>>>> f330a5c8d6fcdd2e806ec3ec474f1604b3e6dd11
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
