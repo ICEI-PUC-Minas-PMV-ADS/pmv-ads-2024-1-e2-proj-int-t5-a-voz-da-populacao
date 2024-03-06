@@ -87,6 +87,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
 |RNF-008| A aplicação deve ser capaz de armazenar e processar grandes volumes de dados | BAIXA |
 |RNF-009| As contas devem ser limitadas a um cadastro por CPF | ALTA |
+|RNF-010| O projeto deverá ser desenvolvido em C#
+|RNF-011| O projeto deverá ser desenvolvido na IDE Visual Studio             |
+|RNF-012| O projeto deverá utilizar o Entity Framework como ORM |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -111,13 +114,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Aplicação deverá ser desenvolvida em um módulo de backend        |
-|03| O projeto deverá ser desenvolvido em C#               |
-|04| O projeto deverá ser desenvolvido na IDE Visual Studio             |
-|04| O projeto deverá utilizar o Entity Framework como ORM |
-|05| O projeto deverá utilizar um banco de dados |
-|06| O projeto deverá conter testes unitários |
-|07| O projeto deverá conter dois CRUDs |
-|08| O projeto deverá conter um sistema de autenticação |
+|03| O projeto deverá utilizar um banco de dados |
+|04| O projeto deverá conter testes unitários |
+|05| O projeto deverá conter dois CRUDs |
+|06| O projeto deverá conter um sistema de autenticação |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
