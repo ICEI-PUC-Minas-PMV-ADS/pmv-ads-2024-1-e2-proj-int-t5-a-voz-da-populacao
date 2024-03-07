@@ -61,6 +61,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
+|RF-001| O sistema deve permitir o usuário acessar seu site com o login | ALTA |
+|RF-002| O sistema deve permitir o usuário criar o seu cadastro na página | ALTA |
+|RF-003| O sistema deve permitir o registro de usuários com diferentes níveis de permissão (cidadão e agente), assim como recuperação/alteração de senha e edição de permissionamento | ALTA |
 |RF-001| A aplicação deve permitir que o usuário relate problemas de infraestrutura urbana (buracos, iluminação, etc.) | ALTA |
 |RF-002| A aplicação deve permitir que os usuários acompanhem o status de seus relatórios e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
 |RF-003| A aplicação deve permitir que o usuário relate problemas de limpeza urbana (lixo, poluição, etc.) | ALTA |
