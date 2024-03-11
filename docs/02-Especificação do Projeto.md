@@ -64,19 +64,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O sistema deve permitir o usuário acessar seu site com o login | ALTA |
 |RF-002| O sistema deve permitir o usuário criar o seu cadastro na página | ALTA |
 |RF-003| O sistema deve permitir o registro de usuários com diferentes níveis de permissão (cidadão e agente), assim como recuperação/alteração de senha e edição de permissionamento | ALTA |
-|RF-004| A aplicação deve permitir que o usuário relate problemas de infraestrutura urbana (buracos, iluminação, etc.) | ALTA |
-|RF-005| A aplicação deve permitir que os usuários acompanhem o status de seus relatórios e recebam atualizações sobre as ações tomadas pelo segmento responsável | MÉDIA |
-|RF-006| A aplicação deve permitir que o usuário relate problemas de limpeza urbana (lixo, poluição, etc.) | ALTA |
-|RF-007| A aplicação deve permitir que o usuário relate problemas de acessibilidade em locais públicos | ALTA |
-|RF-008| A aplicação deve permitir que o usuário relate problemas de segurança pública | ALTA |
-|RF-009| A aplicação deve permitir que o usuário relate problemas ambientais (desmatamento, falta de áreas verdes, etc.) | ALTA |
-|RF-010| A aplicação deve permitir que o usuário relate problemas em escolas municipais | ALTA |
-|RF-011| A aplicação deve permitir que o usuário relate focos de dengue em áreas públicas | ALTA |
-|RF-012| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
-|RF-013| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
-|RF-014| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
-|RF-015| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
-|RF-016| Os cadastros de usuários responsáveis por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
+|RF-004| A aplicação deve permitir que o usuário realize abertura de demandas para relatar problemas | ALTA |
+|RF-005| A aplicação deve permitir que o usuário acompanhe o status de seus demandas | MÉDIA |
+|RF-006| O sistema deverá enviar atualizações sobre as ações tomadas pelo segmento responsável | ALTA |
+|RF-007| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
+|RF-008| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
+|RF-009| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
+|RF-010| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
+|RF-011| Os cadastros de usuários responsáveis por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
 
 ### Requisitos não Funcionais
 
