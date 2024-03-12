@@ -53,8 +53,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
 |RF-008| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
 |RF-009| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
-|RF-010| Os cadastros de usuários de pessoa fisica deverá ser obrigatório o dado de CPF | ALTA |
-|RF-011| Os cadastros de usuários responsáveis por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
+|RF-010| Os cadastros de usuários de pessoa fisica (cidadão) deverá ser obrigatório o dado de CPF | ALTA |
+|RF-011| Os cadastros de usuários responsáveis (agente) por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
 
 ### Requisitos não Funcionais
 
