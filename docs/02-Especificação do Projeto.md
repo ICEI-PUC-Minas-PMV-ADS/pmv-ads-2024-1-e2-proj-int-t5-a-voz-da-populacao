@@ -47,12 +47,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O sistema deve permitir o usuário acessar seu site com o login | ALTA |
 |RF-002| O sistema deve permitir o usuário criar o seu cadastro na página | ALTA |
 |RF-003| O sistema deve permitir o registro de usuários com diferentes níveis de permissão (cidadão e agente), assim como recuperação/alteração de senha e edição de permissionamento | ALTA |
-|RF-004| A aplicação deve permitir que o usuário realize abertura de demandas para relatar problemas | ALTA |
-|RF-005| A aplicação deve permitir que o usuário acompanhe o status de seus demandas | MÉDIA |
+|RF-004| O sistema deve permitir que o usuário realize abertura de demandas para relatar problemas | ALTA |
+|RF-005| O sistema deve permitir que o usuário acompanhe o status de seus demandas | MÉDIA |
 |RF-006| O sistema deverá enviar atualizações sobre as ações tomadas pelo segmento responsável | ALTA |
-|RF-007| A aplicação deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
+|RF-007| O sistema deve fornecer um sistema de notificações para alertar os usuários sobre problemas semelhantes relatados em sua área | MÉDIA |
 |RF-008| Os usuários deverão adicionar flags para indicar o seguimento do problema | MÉDIA |
-|RF-009| A aplicação deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
+|RF-009| Os sistemas deve permitir que o usuário anexe arquivos de até 20MB para complementar o relatório | BAIXA |
 |RF-010| Os cadastros de usuários de pessoa fisica (cidadão) deverá ser obrigatório o dado de CPF | ALTA |
 |RF-011| Os cadastros de usuários responsáveis (agente) por cada setor da prefeitura deverão ser obrigatório o dado de CNPJ | ALTA |
 
