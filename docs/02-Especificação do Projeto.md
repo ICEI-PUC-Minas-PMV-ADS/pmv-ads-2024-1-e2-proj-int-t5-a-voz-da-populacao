@@ -64,14 +64,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação deve ser responsiva e funcionar corretamente em diferentes dispositivos, como smartphones, tablets e computadores | ALTA |
 |RNF-003| A aplicação deve garantir a segurança dos dados dos usuários, protegendo as informações pessoais e os relatórios enviados | ALTA |
 |RNF-004| A aplicação deve ser compatível com os principais navegadores web (Chrome, Firefox, Safari, Edge) | MÉDIA |
-|RNF-005| A aplicação deve ser capaz de suportar vários usuários simultâneos | MÉDIA |
-|RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA |
-|RNF-007| A aplicação deve ser capaz de enviar notificações em tempo real | BAIXA |
-|RNF-008| A aplicação deve ser capaz de armazenar e processar grandes volumes de dados | BAIXA |
-|RNF-009| As contas devem ser limitadas a um cadastro por CPF | ALTA |
-|RNF-010| O projeto deverá ser desenvolvido em C# | MÉDIA |
-|RNF-011| O projeto deverá ser desenvolvido na IDE Visual Studio             | MÉDIA |
-|RNF-012| O projeto deverá utilizar o Entity Framework como ORM | MÉDIA |
+|RNF-005| As contas devem ser limitadas a um cadastro por CPF | ALTA |
+|RNF-006| O projeto deverá ser desenvolvido em C# | MÉDIA |
+|RNF-007| O projeto deverá ser desenvolvido na IDE Visual Studio             | MÉDIA |
+|RNF-008| O projeto deverá utilizar o Entity Framework como ORM | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
