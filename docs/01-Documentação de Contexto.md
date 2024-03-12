@@ -15,9 +15,31 @@ Promover a Transparência: Tornar as ações da prefeitura em resposta aos chama
 
 ## Justificativa
 
-O uso de um sistema conectado com todos os setores público trará liberdade para o cidadão(a) se manifestar sobre problemas em sua cidade e agregar com sugestões  para melhoria da educação, saneamento básico, transporte público, segurança, entre outros. A construção desse software contribuirá com a consolidação das manifestações em um único lugar e o direcionamento correto para as pessoas responsáveis pela tratativa no governo.
+Um sistema conectado com as Ouvidorias públicas visa proporcionar aos cidadãos a oportunidade de expressar suas preocupações e oferecer sugestões para melhorar aspectos da vida na cidade, como: educação, saneamento básico, transporte público e segurança. O software FalaCidadão.com facilitará a centralização dessas informações, permitindo a criação de relatórios transparentes que abrangem todas as manifestações registradas. Além disso, possibilitará o encaminhamento eficaz dos problemas às autoridades responsáveis pela resolução, em colaboração com o governo.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Essa iniciativa não se confunde com os procedimentos administrativos tradicionais oferecidos pelos Órgãos de Defesa do Consumidor, como Procons Estaduais e Municipais, Defensorias Públicas, Ministério Público e Juizados Especiais Cíveis. A população poderá recorrer a esse serviço sem prejudicar o acesso aos outros canais pré-estabelecidos.
+
+Em 2019, a Controladoria Geral da União (CGU) lançou o software "Fala.br" com o mesmo propósito mencionado anteriormente. A plataforma permite que os cidadãos se manifestem sobre acesso à informação, denúncias, elogios, reclamações, solicitações e sugestões para as instâncias responsáveis, sejam elas federais, estaduais, municipais, do Judiciário Federal ou de Serviços Autônomos/Conselhos Profissionais. O prazo máximo para retorno varia entre 1 e 30 dias corridos, sendo este o tempo estimado para a prestação desse serviço.
+
+No entanto, apesar dos esforços para promover transparência, ainda é desafiador encontrar relatórios que atendam aos padrões exigidos pela Lei n. 13.460, de 26 de junho de 2017, que orienta a elaboração de relatórios de gestão anuais. O último relatório disponível, o Relatório Anual de Gestão - 2022, oferece apenas dados gerais sobre as reclamações, sem fornecer uma análise detalhada das falhas e sugestões de melhorias.
+
+De acordo com o último relatório em formato PDF, a maioria das reclamações foram registradas online, totalizando 74.751 (94,10%) das manifestações, com um total geral de 79.442. Destas, 46.858 (58,98%) foram reclamações e 20.508 (25,82%) foram solicitações de providências. Contrariamente ao que foi mencionado na FAQ do site, o prazo máximo para resposta não está restrito ao intervalo de 1 a 30 dias, conforme indicado no próprio relatório. Nele, consta que 97,52% do total de reclamações foram atendidas dentro de 30 dias, totalizando 75.210, enquanto algumas ultrapassaram esse prazo, com 1.778 (2,40%) delas respondidas após 60 dias e 138 (0,18%) fora do prazo legal.
+
+O site ReclameAqui também desempenha um papel importante na expressão das preocupações dos cidadãos. No entanto, uma reclamação específica se destaca, representando 36,58% do total, relacionada a "Problemas com o site". Os usuários mencionam dificuldades diversas, como erros de credencial e problemas de acesso, ressaltando a importância de uma plataforma eficiente e funcional para atender às necessidades do público.
+
+Diante desse cenário, a proposta do FalaCidadão.com de ampliar a acessibilidade dos cidadãos e buscar soluções para suas questões, enquanto fornece uma base de dados qualificada para o monitoramento e acompanhamento transparente, reforça a importância de iniciativas voltadas para o bem-estar e participação ativa da comunidade.
+
+O relatório deverá conter: 
+
+I - o número de manifestações recebidas de todos os anos anteriores;
+II - os motivos das manifestações;
+III - a análise dos pontos recorrentes;
+IV - as providências adotadas pela administração pública nas soluções apresentadas.
+
+O relatório será:
+
+I - encaminhado à autoridade máxima do órgão a que pertence a unidade de ouvidoria; e
+II - disponibilizado integralmente na internet.
 
 
 ## Público-Alvo
