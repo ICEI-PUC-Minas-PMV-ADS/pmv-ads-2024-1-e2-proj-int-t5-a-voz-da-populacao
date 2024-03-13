@@ -48,7 +48,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| O sistema deve permitir o usuário criar o seu cadastro na página | ALTA |
 |RF-003| O sistema deve permitir o registro de usuários com diferentes níveis de permissão (cidadão e agente), assim como recuperação/alteração de senha e edição de permissionamento | ALTA |
 |RF-004| O sistema deve permitir que o cidadão realize abertura de demandas para relatar problemas com status inicial "Em espera" | ALTA |
-|RF-005| O sistema deve permitir que o cidadão acompanhe o status de seus demandas | MÉDIA |
+|RF-005| O sistema deve permitir que o cidadão acompanhe o status de suas demandas | MÉDIA |
 |RF-006| O sistema deve permitir que o agente altere o status (Em espera, Em andamento e Concluído) das suas demandas | MÉDIA |
 |RF-007| O sistema deverá enviar atualizações sobre as ações tomadas pelo segmento responsável | ALTA |
 |RF-008| O cidadão deverá selecionar categorias para indicar o seguimento no inicio do cadastro da demanda | MÉDIA |
