@@ -103,7 +103,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/139129269/0fda79de-d589-47be-a651-890ac9f459bb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/139129269/3f09bced-0482-4cb5-b758-4e547808bd3e)
+
 
 
 
