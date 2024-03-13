@@ -103,6 +103,10 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
+O diagrama de casos de uso apresentado na Figura 1 ilustra as principais interações entre os usuários e um sistema de abertura de chamados de demandas municipais.
+
+> Para visualizar o protótipo, acesse o [Lucidchart](https://lucid.app/lucidchart/8ea78e16-93af-44e9-8f13-99974dd91e47/edit?viewport_loc=-180%2C627%2C4986%2C2454%2C.Q4MUjXso07N&invitationId=inv_65d7f556-c976-44ad-a796-bb88e2529b10) do projeto.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/139129269/3f09bced-0482-4cb5-b758-4e547808bd3e)
 
 
