@@ -3,7 +3,8 @@
 Telejornal e Ouvidorias Públicas, apesar da distância na finalidade, têm em comum a característica de ser um canal para manifestação da população. Nessa perspectiva, observa-se o crescimento significativo nas reclamações. Sob essa ótica, para que o mecanismo funcione, então, é fundamental que as esferas responsáveis, como: federais, estaduais, municipais, do Judiciário Federal ou de Serviços Autônomos/Conselhos Profissionais busquem potencializar a transparência e a resolutividade. 
 
 ## Problema
-Atualmente, o desafio reside na ausência de um canal que forneça transparência e seja eficaz e direto na comunicação entre os cidadãos e a prefeitura. Com frequência, os cidadãos se veem perdidos ao tentar relatar problemas ou fazer solicitações, enquanto a prefeitura pode não ter total ciência das demandas da comunidade. Essa lacuna de comunicação pode acarretar atrasos na resolução de questões cruciais.
+
+O desafio atual reside na falta de um canal de comunicação transparente, eficaz e direto entre os cidadãos e a prefeitura. Muitas vezes, os cidadãos enfrentam dificuldades ao tentar relatar problemas ou fazer solicitações, enquanto a prefeitura pode não estar totalmente ciente das demandas da comunidade. Essa lacuna na comunicação pode resultar em atrasos na resolução de questões importantes.
 
 ## Objetivos
 
