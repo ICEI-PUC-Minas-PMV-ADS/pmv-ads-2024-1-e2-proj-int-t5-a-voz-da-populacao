@@ -8,15 +8,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/136030209/033718b3-1101-4b5c-8a50-abfbac5dca56)
+
 Ana é uma moradora ativa, preocupada com a qualidade de vida em seu bairro. Mãe de dois filhos pequenos, ela busca uma maneira rápida e eficiente de reportar problemas como buracos no asfalto, falta de iluminação pública e acúmulo de lixo nas calçadas à prefeitura. Ana procura se sentir ouvida pelas autoridades locais e deseja contribuir para a melhoria da comunidade.
 Ana já tentou contatar a prefeitura por telefone e e-mail, sem sucesso. Ela se sente desanimada com a falta de resposta e a dificuldade de acompanhar o status de suas solicitações, buscando uma solução mais transparente e eficaz para relatar questões locais
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/136030209/81ae3a08-d783-4269-8a26-8c79c7086738)
 
 João é um empresário bem-sucedido que administra uma pequena rede de restaurantes na cidade. Ele é conhecido por sua paixão pela comunidade local e está sempre em busca de maneiras de contribuir para o desenvolvimento da região. Como proprietário de negócios, João está particularmente preocupado com questões como segurança pública, infraestrutura urbana e limpeza das ruas. O empresário enfrenta constantemente desafios relacionados à segurança e manutenção da área em torno de seus restaurantes, como problemas de iluminação, buracos nas ruas e coleta irregular de lixo.
 João já teve experiências frustrantes ao tentar relatar problemas à prefeitura, encontrando dificuldades para obter respostas e soluções eficazes para as questões enfrentadas em sua área de negócios.
 
-Pedro é uma morador ativo da comunidade, Ela utiliza regularmente a academia ao ar livre próxima à sua casa para fazer exercícios físicos. Recentemente, Pedro percebeu existia aguá parada devido a lixo no local, podendo acarretar na presença de focos de dengue em áreas públicas. Preucupado coma situação , Pedro decidiu fazer uma visita pessoal à sede da prefeitura para relatar o problema . Ele deixou seu nome e informações de contato na recepção, mas não obteve retorno algum.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/136030209/c257c380-2262-417b-a086-933081a512f8)
+
+Pedro é uma morador ativo da comunidade, ele utiliza regularmente a academia ao ar livre próxima à sua casa para fazer exercícios físicos. Recentemente, Pedro percebeu existia aguá parada devido a lixo no local, podendo acarretar na presença de focos de dengue em áreas públicas. Preucupado coma situação , Pedro decidiu fazer uma visita pessoal à sede da prefeitura para relatar o problema . Ele deixou seu nome e informações de contato na recepção, mas não obteve retorno algum.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/136030209/a337fcef-800d-4a64-a492-c6c3572b9c1e)
 
 Prefeito Antônio, há dois anos no cargo, é reconhecido por sua integridade e compromisso com a transparência na gestão pública. Ele valoriza a participação dos cidadãos e vê na aplicação de abertura de chamados uma oportunidade para fortalecer o diálogo direto com a comunidade. Seu objetivo é construir confiança com os eleitores, demonstrando responsabilidade e eficiência na resolução dos problemas locais.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-a-voz-da-populacao/assets/136030209/da1f948e-40cf-434e-8112-57e9e275d40c)
 
 Lucas, secretário de Obras e Infraestrutura, lidera os esforços para desenvolver e manter a infraestrutura urbana da cidade. Busca eficiência e transparência, esperando que a aplicação forneça métricas para avaliar o progresso dos Chamados abertos pelo cidadão. Seu objetivo é utilizar essas métricas para demonstrar a eficácia e a transparência do trabalho da secretaria.
 
